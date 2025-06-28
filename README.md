@@ -27,6 +27,3 @@ This project contains a Python script and documentation for analyzing and intera
 - `requirements.txt` — Python dependencies.
 - `README.md` — Project overview and instructions.
 
-## Author
-
-Reverse-engineered and documented for the Black Box Challenge.
